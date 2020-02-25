@@ -1,0 +1,23 @@
+{
+  "name": "where-is-the-iss",
+  "version": "1.0.0",
+  "description": "realtime position",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennismuasya/where-is-the-iss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennismuasya/where-is-the-iss/issues"
+  },
+  "homepage": "https://github.com/dennismuasya/where-is-the-iss#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
